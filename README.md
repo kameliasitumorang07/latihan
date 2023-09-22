@@ -1,0 +1,2 @@
+# latihan
+pemula phython
